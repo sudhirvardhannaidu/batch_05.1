@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis
+  labels:
+    name: redis-service
+    app: demo-voting-app
+spec:
+  ports:
+1
+2
+3
+4
+5
+6
+
